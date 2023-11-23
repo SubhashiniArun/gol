@@ -1,4 +1,4 @@
-This is a forked Repo demonstarting simple Jenkins app
+This is a forked repo demonstarting simple Jenkins app.
 
 ## Building the project
 
@@ -7,3 +7,5 @@ The project is a simple multi-module Maven project. To build the whole project, 
 Test Build Trigger
 
 Test Build Trigger
+
+Testing Building Trigger via Jenkins
