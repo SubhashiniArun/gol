@@ -1,4 +1,4 @@
-This is a simple demonstration application used in the Jenkins Boostcamp course
+This is a forked Repo demonstarting simple Jenkins app
 
 ## Building the project
 
