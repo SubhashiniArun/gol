@@ -1,4 +1,4 @@
-This is a forked repo demonstarting simple Jenkins app.
+This is a forked repo demonstrating simple Jenkins app.
 
 ## Building the project
 
